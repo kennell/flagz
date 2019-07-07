@@ -18,6 +18,8 @@ flag = flagz.by_code('ca')
 print(flag)  # 🇨🇦
 ```
 
+If no flag exists, a `ValueError` will be raised
+
 ### Run tests
 
 ```
