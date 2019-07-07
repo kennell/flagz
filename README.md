@@ -1,28 +1,28 @@
-# emojiflags
+# flagz
 
 A python package that makes working with emoji flags ([regional indicator symbols](https://en.wikipedia.org/wiki/Regional_Indicator_Symbol)) comfy.
 
 ### Install
 
 ```
-pip install emojiflags
+pip install flagz
 ```
 
 ### Usage
 
 ```python
-import emojiflags
+import flagz
 
 
-flag = emojiflags.get_by_code('ca')
+flag = flagz.get_by_code('ca')
 print(flag)  # 🇨🇦
 ```
 
 ### Run tests
 
 ```
-git clone https://github.com/kennell/emojiflags
-cd emojiflags
+git clone https://github.com/kennell/flagz
+cd flagz
 pip install -e .
 pytest
 ```
