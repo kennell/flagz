@@ -1,4 +1,4 @@
-# flagz 🇲🇽 🇨🇿 🇧🇾
+# flagz 🇲🇽 🇩🇪 🇨🇿 🇷🇴 🇧🇾
 
 A Python package that makes working with emoji country flags ([regional indicator symbols](https://en.wikipedia.org/wiki/Regional_Indicator_Symbol)) comfy.
 
