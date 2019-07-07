@@ -1,6 +1,6 @@
 # flagz 🇲🇽 🇨🇿 🇧🇾
 
-A python package that makes working with emoji flags ([regional indicator symbols](https://en.wikipedia.org/wiki/Regional_Indicator_Symbol)) comfy.
+A Python package that makes working with emoji flags ([regional indicator symbols](https://en.wikipedia.org/wiki/Regional_Indicator_Symbol)) comfy.
 
 ### Install
 
