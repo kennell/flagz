@@ -14,7 +14,7 @@ pip install flagz
 import flagz
 
 
-flag = flagz.get_by_code('ca')
+flag = flagz.by_code('ca')
 print(flag)  # 🇨🇦
 ```
 
