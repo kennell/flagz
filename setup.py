@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='flagz',
-    version='1.2.0',
+    version='1.2.1',
     py_modules=['flagz'],
     author='Kevin Kennell',
     author_email='kevin@kennell.de',
