@@ -11,7 +11,3 @@ class TestFlagz(unittest.TestCase):
     def test_by_code_uppercase(self):
         flag = flagz.by_code('DE')
         self.assertEqual(flag, '🇩🇪')
-
-    def test_by_code_invalid(self):
-        with self.assertRaises(ValueError):
-            flagz.by_code('xx')
